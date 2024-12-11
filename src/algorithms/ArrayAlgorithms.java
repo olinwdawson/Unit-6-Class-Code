@@ -2,6 +2,10 @@ package algorithms;
 
 public class ArrayAlgorithms {
     public static void main(String[] args) {
+        // make a good test array
+
+        //call the method
+        // e.g. sout(findMin(myArray))
 
     }
 
